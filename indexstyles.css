@@ -1,0 +1,16 @@
+.body {
+    background-color: black;
+}
+
+
+.header {
+    color: white;
+    font-size: 36px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.list {
+    color: antiquewhite;
+    text-align: center;
+}
