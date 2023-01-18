@@ -1,13 +1,13 @@
-.title {
-    text-align: center;
-    color: white;
-    text-transform: uppercase;
-    position: relative;
+.body {
+    background-color: aqua;
+    color: blueviolet;
 }
 
-.body {
-    background-color: black;
-    color: white;
+.title {
+    color: blueviolet;
+    text-align: center;
+    text-transform: uppercase;
+    position: relative;
 }
 
 .descriptiontitle {
@@ -18,14 +18,10 @@
     text-align: center;
 }
 
-.directionstitle {
-    text-align: center;
-}
-
 .ingredients {
     text-align: center;
 }
 
-
-
-
+.directionstitle {
+    text-align: center;
+}
