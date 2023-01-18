@@ -1,6 +1,6 @@
 .body {
-    background-color: deeppink;
-    color: cyan;
+    background-color: rgb(233, 27, 216);
+    color: rgb(33, 218, 255);
 }
 
 .title {
@@ -10,19 +10,9 @@
     color: cyan;
 }
 
-.descriptiontitle {
-    text-align: center;
-}
-
-.ingredientstitle {
-    text-align: center;
-}
-
-.ingredients {
-    text-align: center;
-}
-
+.descriptiontitle,
+.ingredientstitle,
+.ingredients,
 .directionstitle {
     text-align: center;
 }
-
