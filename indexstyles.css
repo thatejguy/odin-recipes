@@ -5,12 +5,16 @@
 
 .header {
     color: white;
-    font-size: 36px;
+    font-size: 50px;
     text-align: center;
     font-weight: bold;
+    font-variant: small-caps;
+    font-family: cursive;
 }
 
 .list {
     color: antiquewhite;
     text-align: center;
+    font-family: fantasy;
 }
+

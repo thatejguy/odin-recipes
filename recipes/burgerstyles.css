@@ -2,28 +2,20 @@
     text-align: center;
     color: white;
     text-transform: uppercase;
-    position: relative;
+    background-color: purple;
+    margin-right: 400px;
+    margin-left: 400px;
 }
 
-.body {
+body {
+    text-align: center;
     background-color: black;
     color: white;
 }
 
-.descriptiontitle {
-    text-align: center;
-}
-
-.ingredientstitle {
-    text-align: center;
-}
-
-.directionstitle {
-    text-align: center;
-}
-
-.ingredients {
-    text-align: center;
+.directions {
+    border: 2px solid red;
+    margin: auto 600px;
 }
 
 
